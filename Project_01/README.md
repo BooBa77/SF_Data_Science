@@ -3,4 +3,4 @@
 ## Описание проекта
 Угадать заданное компьютером число за минимальное число попыток
 
-:arrow_up:[]
+:arrow_up:[https://github.com/BooBa77/SF_Data_Science/blob/main/Project_01/README.md#Оглавление]
