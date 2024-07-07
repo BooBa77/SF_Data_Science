@@ -29,7 +29,7 @@ def guess_my_num(number: int = 1) -> int:
 import numpy as np
 count_attempts = 0 # общее кол-во попыток отгадывания
 for i in range(10000):
-    hidden_number = np.random.randint(0, 101)  # загаданное компьютером число
+    hidden_number = np.random.randint(1, 101)  # загаданное компьютером число
     count_attempts += guess_my_num(hidden_number)
 
 # вывод на экран среднего количества попыток
