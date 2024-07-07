@@ -2,7 +2,12 @@
 
 ## Оглавление
 [1. Описание проекта](https://github.com/BooBa77/SF_Data_Science/blob/main/Project_01/README.md#Описание-проекта)
+
 [2. Какой кейс решаем?](https://github.com/BooBa77/SF_Data_Science/blob/main/Project_01/README.md#Какой-кейс-решаем?)
+
+[3. Этапы решения задачи](https://github.com/BooBa77/SF_Data_Science/blob/main/Project_01/README.md#Этапы-решения-задачи)
+
+[4. Результаты](https://github.com/BooBa77/SF_Data_Science/blob/main/Project_01/README.md#Результаты)
 
 ### Описание проекта
 Угадать заданное компьютером число за минимальное число попыток
